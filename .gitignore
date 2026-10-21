@@ -1,0 +1,14 @@
+*node_modules/
+*.vscode/
+
+# backend
+*.temp
+
+
+
+# web
+*.next
+
+
+
+# mobile
